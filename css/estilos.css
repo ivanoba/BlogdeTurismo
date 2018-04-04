@@ -11,14 +11,12 @@ body {
 	background-size: cover;
 	background-attachment:fixed;
 	position:relative;
-
 }
-
 
 /*ENCABEZADO*/
 #encabezado img {
   border-radius: 5px;
-  margin-top: 3d9ddd0vh;
+  margin-top: 3vh;
 }
 
 #encabezado h1 {
@@ -38,7 +36,6 @@ body {
   border-radius: 5px;
   margin-bottom: 1em;
 }
-
 
 /*CONTENIDO PRINCIPAL*/
 #posts p {
